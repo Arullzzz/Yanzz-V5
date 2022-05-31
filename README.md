@@ -84,7 +84,7 @@ npm start
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Ynzz-Bot/Yanzz-V4/blob/master/Ynz.json#L1)
+[`Click Here`](https://github.com/Ynzz-Bot/Yanzz-V5/blob/master/Yanzz.data.json#L1)
 
 ## ```DONATE```
 
