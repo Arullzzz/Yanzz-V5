@@ -31,9 +31,9 @@ function pickRandom(list) {
 
 // Global Staff
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = ['https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'] // ganti jadi group lu
-global.owner = ['6288287810316', '6288272489919' ,'6282186172016'] // Put your number here
-global.mods = ['6282186172016'] // Want some help?
+global.linkGC = ['https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'] // ganti jadi group lu
+global.owner = ['6285822347348', '6285822347348' ,'6285822347348'] // Put your number here
+global.mods = ['6285822347348'] // Want some help?
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -69,12 +69,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Yanzz And Haori \n\n\n\n\n\\n\n\n\nDah Apa Lagi Bang Liat Liat🗿\n'
+global.packname = 'ArullBotz' \n\n\n\n\n\\n\n\n\nDah Apa Lagi Bang Liat Liat🗿\n'
 global.author = '۰ ⸼'
 
 // BOT WM
-global.botwm = '▧ Yanzz BOT | © Ynz' //UBAH SETERAHMU
-global.wm = '© 2022 By Ynzz'
+global.botwm = '▧ ArullBotz | © Arull' //UBAH SETERAHMU
+global.wm = '© 2022 By Arull'
 global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}`
 
 // LOGO
@@ -104,7 +104,7 @@ global.bs = scraper
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 28 // The higher, The harder levelup
+global.multiplier = 9999 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
