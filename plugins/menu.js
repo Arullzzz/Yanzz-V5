@@ -65,7 +65,7 @@ const defaultMenu = {
 *Ⓛ* = Limit
 
 %readmore`.trimStart(),
-  header: `╭───━⃝┅ *%category* ┅⃝━───⳹`,
+  header: `╭───┅ *%category* ┅──⳹`,
   body: `│⬡ %cmd %islimit %isPremium`,
   footer: `╰•───────━⃝┅⃝━──────┈ ⳹`,
   after: `
@@ -520,9 +520,9 @@ const ultah = new Date('February 29, 2024 23:59:59')
 
 
 
-  let logo2 = fs.readFileSync('./elaina.jpg')
+  let logo2 = fs.readFileSync('src/logo2.jpg')
 
-  kanna = fs.readFileSync('./elaina.jpg')
+  kanna = fs.readFileSync('src/logo3.jpg')
 
   kannaImg = (await conn.prepareMessage('0@s.whatsapp.net', kanna, MessageType.image, { thumbnail: Buffer.alloc(0) })).message.imageMessage
 
