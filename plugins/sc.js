@@ -30,7 +30,7 @@ let info = `◪ 📮 *SCRIPT BOT*
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
 • Jangan Lupa kasih star & kasih credit
 `.trim()
-await conn.send2Button(m.chat, info, `${botol}`, '⋮☰ INFO', '.info', 'OWNER', '.owner', ftrol)
+await conn.send2Button(m.chat, info, `${botol}`, '⋮☰ INFO BOT', '.info', 'OWNER', '.owner', ftrol)
 }
 handler.help = ['sc']
 handler.tags = ['info']
