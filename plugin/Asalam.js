@@ -1,5 +1,5 @@
 let handler = async (m, { conn }) => {
-let caption = `*Waalaikummussalam warahmatullahi wabarokatuh*
+let caption = `*Waalaikummussalam warahmatullahi wabarokatuh kak*
 
 
 _📚 Baca yang dibawah ya!_
