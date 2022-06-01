@@ -27,7 +27,7 @@ const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
 
     before: `
-𐐪··───━•〔 ll Yanz-Bot ཻུ⸙͎ 〕•━───··ɞ
+𐐪··───━•〔 ll ArullBotz ཻུ⸙͎ 〕•━───··ɞ
 
 🎐 *Name:* %name
 🎐 *Tags:* %tag
@@ -87,7 +87,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let ow = `@${'6288287810316'.split('@')[0]}`
+ let ow = `@${'6285822347348'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -734,8 +734,8 @@ const ultah = new Date('February 29, 2024 23:59:59')
 │◦➛ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 │◦➛ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ╰━━━━━━━━━━━━━━━━━┈ꕥ
-*Official Bot By ${waofc}*
-*Powered By ${ow}*`
+*Official Bot By ${ArullBotz}*
+*Powered By ${Arull}*`
 
     if (teks == '404') {
 
@@ -1214,7 +1214,7 @@ const ultah = new Date('February 29, 2024 23:59:59')
 
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
 
-            "fileName": 'Yanzz вσт',
+            "fileName": 'ArullBotz',
 
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
 
